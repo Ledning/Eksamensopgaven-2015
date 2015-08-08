@@ -1,0 +1,6 @@
+c:\users\mathiasl\documents\visual studio 2013\Projects\Eksamensopgaven 2015\Eksamensopgaven 2015\bin\Debug\Eksamensopgaven 2015.exe.config
+c:\users\mathiasl\documents\visual studio 2013\Projects\Eksamensopgaven 2015\Eksamensopgaven 2015\obj\Debug\Eksamensopgaven 2015.csprojResolveAssemblyReference.cache
+c:\users\mathiasl\documents\visual studio 2013\Projects\Eksamensopgaven 2015\Eksamensopgaven 2015\bin\Debug\Eksamensopgaven 2015.exe
+c:\users\mathiasl\documents\visual studio 2013\Projects\Eksamensopgaven 2015\Eksamensopgaven 2015\bin\Debug\Eksamensopgaven 2015.pdb
+c:\users\mathiasl\documents\visual studio 2013\Projects\Eksamensopgaven 2015\Eksamensopgaven 2015\obj\Debug\Eksamensopgaven 2015.exe
+c:\users\mathiasl\documents\visual studio 2013\Projects\Eksamensopgaven 2015\Eksamensopgaven 2015\obj\Debug\Eksamensopgaven 2015.pdb
