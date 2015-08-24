@@ -19,7 +19,7 @@ namespace Eksamensopgaven_2015
             _amount = selectedProduct.price;
         }
 
-        public new bool Execute()
+        public override bool Execute()
         {
             if (currentUser.balance < amount)
             {

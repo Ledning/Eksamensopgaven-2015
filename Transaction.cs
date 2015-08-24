@@ -13,29 +13,19 @@ namespace Eksamensopgaven_2015
         protected User _currentUser;
         protected DateTime _date;
         protected decimal _amount;
-        
 
-        public bool Execute ()
-        {
-            return true;
-        }
+
+        public abstract bool Execute();
 
         public override string ToString()
         {
             return _transactionID.ToString() + _amount.ToString() + _date.ToString();
         }
 
+
         public Transaction()
         {
-
-        }
-
-        public Transaction(uint transactionID, User currentUser, DateTime date, decimal amount)
-        {
-            _transactionID = ++_transactionIDCounter;
-            _currentUser = currentUser;
-            _date = date;
-            _amount = amount;
+            
         }
 
 
@@ -44,7 +34,7 @@ namespace Eksamensopgaven_2015
             get { return _transactionID; }
             set { _transactionID = value; }
         }
-
+        
         public User currentUser
         {
             get { return _currentUser; }

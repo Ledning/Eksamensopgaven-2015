@@ -21,7 +21,7 @@ namespace Eksamensopgaven_2015
             return "Indsat Beløb " + _amount.ToString() + "\nBruger: " + currentUser.userName.ToString() + "\nDato: " + _date.ToString() + "\nTransactionsID: " + _transactionID.ToString();
         }    
         
-        public new bool Execute()
+        public override bool Execute()
         {
             if ((currentUser.balance > 0 && currentUser.balance + amount < 0) || currentUser.balance <= 0 && amount < 0)
             {
